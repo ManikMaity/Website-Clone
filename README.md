@@ -1,4 +1,5 @@
 # Webpage-Clone
+## This repository hosts code for a website clone that replicates the design of a contemporary web page displayed in the preview. 
 
 <hr>
 
